@@ -43,7 +43,7 @@ void dispose(){
 
 void openCheckout() async {
     var options = {
-      'key': 'rzp_test_ilVZU64kpCLrTf',
+      'key': 'RAZORPAY_KEY',
       'amount': 2000,
       'name': 'Acme Corp.',
       'description': 'Fine T-Shirt',
